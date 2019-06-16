@@ -7,7 +7,7 @@ The original project by bmcbride has not been updated for over 2 years so the up
 
 
 ### Demo:
-http://bmcbride.github.io/bootleaf/
+Coming soon.
 
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
