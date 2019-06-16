@@ -3,9 +3,8 @@ BootLeaf
 
 A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
 
-<<<<<<< HEAD
 The original project by bmcbride has not been updated for over 2 years so the updated dependencies will be on here.
->>>>>>>
+
 
 ### Demo:
 http://bmcbride.github.io/bootleaf/
