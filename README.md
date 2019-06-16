@@ -5,9 +5,7 @@ A simple, responsive template for building web mapping applications with [Bootst
 
 <<<<<<< HEAD
 The original project by bmcbride has not been updated for over 2 years so the updated dependencies will be on here.
-=======
-The original version of this repository has not been updated for a considerable amount of time.
->>>>>>> 2124333fb5e5394496e93857e51a71b821d6ae2b
+>>>>>>>
 
 ### Demo:
 http://bmcbride.github.io/bootleaf/
